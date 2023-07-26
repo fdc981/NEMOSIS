@@ -857,6 +857,7 @@ _method_map = {
     "PLANTSTATS": _custom_tables.plant_stats,
     "DISPATCHINTERCONNECTORRES": _dynamic_data_wrapper_for_gui,
     "DISPATCHREGIONSUM": _dynamic_data_wrapper_for_gui,
+    "DISPATCH_FCAS_REQ": _dynamic_data_wrapper_for_gui,
     "LOSSMODEL": _dynamic_data_wrapper_for_gui,
     "LOSSFACTORMODEL": _dynamic_data_wrapper_for_gui,
     "MNSP_DAYOFFER": _dynamic_data_wrapper_for_gui,
